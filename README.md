@@ -9,7 +9,7 @@ I´m an Actuarial Science student exploring the world of finance and data.
 
 
 
-## Lenguajes 
+## Languages 
 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40"/>
