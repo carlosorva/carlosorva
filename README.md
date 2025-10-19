@@ -11,8 +11,6 @@ I´m an Actuarial Science student exploring the world of finance and data.
 
 ## Lenguajes 
 
-![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
-
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
-
-![Databricks](https://upload.wikimedia.org/wikipedia/commons/8/8a/Databricks-logo.svg)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Databricks-logo.svg" width="40"/>
