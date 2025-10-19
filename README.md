@@ -1,4 +1,6 @@
+
 ## Hi there, I´m Carlos !
+
 
 I´m an Actuarial Science student exploring the world of finance and data.
 
@@ -6,17 +8,11 @@ I´m an Actuarial Science student exploring the world of finance and data.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosorva&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
-<!--
-**carlosorva/carlosorva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Lenguajes 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
+
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+
+![Databricks](https://upload.wikimedia.org/wikipedia/commons/8/8a/Databricks-logo.svg)
