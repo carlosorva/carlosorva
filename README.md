@@ -3,7 +3,7 @@
 I´m an Actuarial Science student exploring the world of finance and data.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosorva&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosorva&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 <!--
